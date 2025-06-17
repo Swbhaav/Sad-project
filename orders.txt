@@ -1,0 +1,2 @@
+Name: Aryan Item: momo Quantity: 2 Total Price: 500
+Name: Looja Item: momo Quantity: 1 Total Price: 250

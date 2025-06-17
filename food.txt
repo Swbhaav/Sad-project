@@ -1,0 +1,5 @@
+1	momo	250
+2	pizza	500
+3	Tea	30
+4	Noodles	50
+5	Samosa	35
